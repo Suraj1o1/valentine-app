@@ -54,13 +54,13 @@ export default function ValentinePage() {
         </motion.div>
 
         <h1 className="text-4xl font-bold text-white mb-4">
-          Will you be my Valentine?
+          Will You Marry Me My Nehu(💖)?
         </h1>
 
         <p className="text-white/90 mb-8 text-lg">
-          You make my world brighter, my heart happier, and my life more
-          beautiful every day. I promise love, laughter, and endless happiness
-          together 💖
+          You are my today, my tomorrow, and my forever. I promise to love you,
+          support you, and stand by your side always. Will you be mine forever?
+          💍❤️
         </p>
 
         <div className="flex gap-6 justify-center">
@@ -117,15 +117,18 @@ export default function ValentinePage() {
               </h2>
 
               <p className="text-gray-700 mb-6">
-                You just made me the happiest person alive! Here are your gifts:
+                You just made me the happiest human alive! Here’s what’s in
+                store for us:
                 <br />
-                💝 Endless Love
+                💝 Unlimited cuddles and love
                 <br />
-                🌹 Romantic Dates
+                🌹 Spontaneous romantic adventures
                 <br />
-                🍫 Sweet Surprises
+                🍫 Chocolate, treats, and sweet surprises
                 <br />
-                💍 Forever Together
+                💍 Forever partner-in-crime
+                <br />
+                🎉 Endless laughter (and silly dance-offs)
               </p>
 
               <motion.div
@@ -133,7 +136,7 @@ export default function ValentinePage() {
                 transition={{ repeat: Infinity, duration: 1.5 }}
                 className="text-pink-500 font-bold text-xl"
               >
-                I Love You ❤️
+                I Love You Xuchu  ❤️
               </motion.div>
 
               <button
