@@ -54,7 +54,7 @@ export default function ValentinePage() {
         </motion.div>
 
         <h1 className="text-4xl font-bold text-white mb-4">
-          Will You Marry Me My Nehu(💖)?
+          Will You Marry Me My Runchiii (💖)?
         </h1>
 
         <p className="text-white/90 mb-8 text-lg">
